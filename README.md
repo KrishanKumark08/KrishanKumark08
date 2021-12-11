@@ -5,9 +5,9 @@
 A 19Y/O  Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like exploring scalability problems and improving efficiency and performance and I am a Strong Advocate for 📜 open source. 
 
 
-![age](https://img.shields.io/badge/age-19-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Bathinda-3c9)
+![age](https://img.shields.io/badge/Age-19-blue)
+![focus](https://img.shields.io/badge/Focus-FullStack-brightgreen)
+![living](https://img.shields.io/badge/Living-Bathinda-3c9)
 
 
 - 🌱 I’m currently trying to master Full Stack Web Development .

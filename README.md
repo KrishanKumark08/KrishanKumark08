@@ -7,7 +7,7 @@ A 19Y/O  Web developer🎯 from India. I'm passionate about Full-Stack Web Devel
 
 ![age](https://img.shields.io/badge/Age-19-blue)
 ![focus](https://img.shields.io/badge/Focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/Living-Bathinda-3c9)
+![living](https://img.shields.io/badge/Living-India-3c9)
 
 
 - 🌱 I’m currently trying to master Full Stack Web Development .

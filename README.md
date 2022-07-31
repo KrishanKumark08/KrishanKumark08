@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a Developer from India ❤</h3>
   
-A 19Y/O  Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like exploring scalability problems and improving efficiency and performance and I am a Strong Advocate for 📜 open source. 
+A 20Y/O  Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like exploring scalability problems and improving efficiency and performance and I am a Strong Advocate for 📜 open source. 
 
 
 ![age](https://img.shields.io/badge/Age-19-blue)
